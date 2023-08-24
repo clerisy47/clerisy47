@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 👨‍💻 All of my projects are available at [clerisyutsav47.com.np](clerisyutsav47.com.np)
+- 👨‍💻 All of my projects are available at [clerisyutsav47.com.np](clerisyutsav47.github.io)
 
 - 💬 Ask me about **Machine Learning**
 
