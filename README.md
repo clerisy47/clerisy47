@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **acharya.utsav104@gmail.com**
+- 📫 How to reach me **clerisyutsav47@gmail.com**
 
 - ⚡ Fun fact **Why did the statistician go to sleep with a ruler under his pillow? Because he wanted to have sweet dreams of normal distributions!**
 
