@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sentiment Analysis](https://github.com/clerisyutsav47/Sentiment-Analysis)
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **MLOPS**
 
 - 👨‍💻 All of my projects are available at [clerisyutsav47.github.io](https://clerisyutsav47.github.io)
 
