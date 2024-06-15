@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utsav Acharya</h1>
 <h3 align="center">A passionate Data Scientist from Nepal</h3>
 
-- 🔭 I’m currently working on [Volt Vision](https://github.com/clerisyutsav47/Sentiment-Analysis](https://github.com/clerisyutsav47/VoltVision)
+- 🔭 I’m currently working on [Volt Vision](https://github.com/clerisyutsav47/Sentiment-Analysis)
 
 - 🌱 I’m currently learning **MLOPS**
 
-- 👨‍💻 All of my projects are available at [clerisyutsav47.github.io](https://clerisyutsav47.github.io)
+- 👨‍💻 Check out my portfolio website [here](https://utsav47.com.np/)
 
 - 💬 Ask me about **Machine Learning**
 
