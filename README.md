@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **clerisyutsav47@gmail.com**
+- 📫 How to reach me **clerisy47@gmail.com**
 
-- ⚡ Fun fact **Why did the statistician go to sleep with a ruler under his pillow? Because he wanted to have sweet dreams of normal distributions!**
+- ⚡ Fun fact **Why are Binary Search Trees good at rock climbing? Because they always keep their balance!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
