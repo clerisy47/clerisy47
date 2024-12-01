@@ -1,3 +1,6 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=clerisy47)
+
+
 <h1 align="center">Hi 👋, I'm Utsav Acharya</h1>
 <h3 align="center">A passionate Data Scientist from Nepal</h3>
 
