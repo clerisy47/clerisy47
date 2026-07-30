@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=180&section=header&text=Utsav%20Acharya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Header banner"/>
 
-<h3 align="center">🧠 AI Engineer | Data Scientist | Computer Vision Engineer | NLP Engineer | Backend Developer</h3>
+![AI Engineer](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=400&lines=AI+Engineer)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Volt+Vision;Building+Mediwo;Researching+3D+Scenes+with+LLM+Agents;Exploring+MLOps)](https://git.io/typing-svg)
 
