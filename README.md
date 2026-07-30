@@ -23,11 +23,9 @@
 ```js
 const utsav = {
   role: "AI Engineer",
-  basedIn: "Nepal 🇳🇵",
-  currentlyBuilding: ["Volt Vision", "Mediwo"],
-  researching: "3D Scenes with LLM Agents",
-  learning: "MLOps",
-  askMeAbout: "Machine Learning",
+  currentlyBuilding: ["3D Scenes with LLM Agents", "Trustilo"],
+  learning: "latest AI innovations released each week"
+  askMeAbout: "AI",
   funFact: "Why are Binary Search Trees good at rock climbing? Because they always keep their balance!"
 };
 ```
