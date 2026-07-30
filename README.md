@@ -20,13 +20,17 @@
 
 </div>
 
-- 🔭 I'm currently working on **[Volt Vision](https://github.com/clerisy47/Sentiment-Analysis)** and **[Mediwo](https://github.com/clerisy47/Mediwo)**
-- 🔬 Currently researching **3D Scenes using LLM Agents**
-- 🌱 I'm currently learning **MLOps**
-- 👨‍💻 Check out my portfolio website **[here](https://utsav47.com.np/)**
-- 💬 Ask me about **Machine Learning**
-- 📫 How to reach me **[clerisy47@gmail.com](mailto:clerisy47@gmail.com)**
-- ⚡ Fun fact: Why are Binary Search Trees good at rock climbing? *Because they always keep their balance!*
+```js
+const utsav = {
+  role: "AI Engineer",
+  basedIn: "Nepal 🇳🇵",
+  currentlyBuilding: ["Volt Vision", "Mediwo"],
+  researching: "3D Scenes with LLM Agents",
+  learning: "MLOps",
+  askMeAbout: "Machine Learning",
+  funFact: "Why are Binary Search Trees good at rock climbing? Because they always keep their balance!"
+};
+```
 
 <br>
 
