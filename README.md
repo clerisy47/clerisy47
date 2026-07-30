@@ -1,30 +1,109 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=clerisy47)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Utsav%20Acharya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data+Scientist+%7C+ML+Engineer+%7C+Nepal&descAlignY=55&descSize=18" width="100%" alt="Header banner"/>
 
-<h1 align="center">Hi 👋, I'm Utsav Acharya</h1>
-<h3 align="center">A passionate Data Scientist from Nepal</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Scientist+from+Nepal;Machine+Learning+Enthusiast;Currently+exploring+MLOps;Building+Volt+Vision+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Volt Vision](https://github.com/clerisyutsav47/Sentiment-Analysis)
+![Profile Views](https://komarev.com/ghpvc/?username=clerisy47&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/clerisyutsav47?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white)](https://github.com/clerisyutsav47)
+[![Portfolio](https://img.shields.io/badge/Portfolio-utsav47.com.np-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://utsav47.com.np/)
 
-- 🌱 I’m currently learning **MLOPS**
+</div>
 
-- 👨‍💻 Check out my portfolio website [here](https://utsav47.com.np/)
+<br>
 
+<div align="center">
+
+## 🧑‍💻 About Me
+
+</div>
+
+- 🔭 I'm currently working on **[Volt Vision](https://github.com/clerisyutsav47/Sentiment-Analysis)**
+- 🌱 I'm currently learning **MLOps**
+- 👨‍💻 Check out my portfolio website **[here](https://utsav47.com.np/)**
 - 💬 Ask me about **Machine Learning**
+- 📫 How to reach me **[clerisy47@gmail.com](mailto:clerisy47@gmail.com)**
+- ⚡ Fun fact: Why are Binary Search Trees good at rock climbing? *Because they always keep their balance!*
 
-- 📫 How to reach me **clerisy47@gmail.com**
+<br>
 
-- ⚡ Fun fact **Why are Binary Search Trees good at rock climbing? Because they always keep their balance!**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/clerisy47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clerisyutsav47" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/clerisy47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clerisyutsav47" height="30" width="40" /></a>
-<a href="https://kaggle.com/clerisy47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="clerisyutsav47" height="30" width="40" /></a>
-<a href="https://fb.com/clerisy47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="clerisyutsav47" height="30" width="40" /></a>
-<a href="https://instagram.com/clerisy47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clerisyutsav47" height="30" width="40" /></a>
-</p>
+## 🚀 Featured Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://github.com/clerisyutsav47/Sentiment-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clerisyutsav47&repo=Sentiment-Analysis&theme=tokyonight&hide_border=true" width="450" alt="Volt Vision repo card"/>
+</a>
 
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=clerisyutsav47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Utsav's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerisyutsav47&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=clerisyutsav47&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=clerisyutsav47&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🛠️ Languages & Tools
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data Science & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+**Backend & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clerisy47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clerisy47)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/clerisy47)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clerisy47)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/clerisy47)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clerisy47@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%" alt="Footer banner"/>
