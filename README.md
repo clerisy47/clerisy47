@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Scientist+from+Nepal;Machine+Learning+Enthusiast;Currently+exploring+MLOps;Building+Volt+Vision+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clerisy47&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/clerisyutsav47?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white)](https://github.com/clerisyutsav47)
+[![GitHub followers](https://img.shields.io/github/followers/clerisyutsav47?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white)](https://github.com/clerisy47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-utsav47.com.np-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://utsav47.com.np/)
 
 </div>
