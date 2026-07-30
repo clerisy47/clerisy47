@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Utsav%20Acharya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data+Scientist+%7C+ML+Engineer+%7C+Nepal&descAlignY=55&descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=180&section=header&text=Utsav%20Acharya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Header banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Scientist+from+Nepal;Machine+Learning+Enthusiast;Currently+exploring+MLOps;Building+Volt+Vision+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3 align="center">🧠 AI Engineer | Data Scientist | Computer Vision Engineer | NLP Engineer | Backend Developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Volt+Vision;Building+Mediwo;Researching+3D+Scenes+with+LLM+Agents;Exploring+MLOps)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clerisy47&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/clerisy47?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white)](https://github.com/clerisy47)
@@ -18,7 +20,8 @@
 
 </div>
 
-- 🔭 I'm currently working on **[Volt Vision](https://github.com/clerisyutsav47/Sentiment-Analysis)**
+- 🔭 I'm currently working on **[Volt Vision](https://github.com/clerisy47/Sentiment-Analysis)** and **[Mediwo](https://github.com/clerisy47/Mediwo)**
+- 🔬 Currently researching **3D Scenes using LLM Agents**
 - 🌱 I'm currently learning **MLOps**
 - 👨‍💻 Check out my portfolio website **[here](https://utsav47.com.np/)**
 - 💬 Ask me about **Machine Learning**
@@ -29,10 +32,13 @@
 
 <div align="center">
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<a href="https://github.com/clerisyutsav47/Sentiment-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clerisyutsav47&repo=Sentiment-Analysis&theme=tokyonight&hide_border=true" width="450" alt="Volt Vision repo card"/>
+<a href="https://github.com/clerisy47/Sentiment-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clerisy47&repo=Sentiment-Analysis&theme=tokyonight&hide_border=true" width="48%" alt="Volt Vision repo card"/>
+</a>
+<a href="https://github.com/clerisy47/Mediwo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clerisy47&repo=Mediwo&theme=tokyonight&hide_border=true" width="48%" alt="Mediwo repo card"/>
 </a>
 
 </div>
@@ -43,10 +49,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=clerisyutsav47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Utsav's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerisyutsav47&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=clerisy47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Utsav's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerisy47&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=clerisyutsav47&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=clerisy47&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -56,7 +62,7 @@
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=clerisyutsav47&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=clerisy47&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
