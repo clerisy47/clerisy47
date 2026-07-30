@@ -4,7 +4,7 @@
 
 ![AI Engineer](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=400&lines=AI+Engineer)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Volt+Vision;Building+Mediwo;Researching+3D+Scenes+with+LLM+Agents;Exploring+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Researching+3D+Scenes+with+LLM+Agents;Always+learning+something+new;Keeping+up+with+current+AI+trends;Turning+data+into+intelligent+systems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clerisy47&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/clerisy47?label=Followers&style=for-the-badge&color=06B6D4&logo=github&logoColor=white)](https://github.com/clerisy47)
